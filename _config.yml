@@ -11,7 +11,6 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2018 Park Joo Hwan. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,6 +28,4 @@ social:
   - title: github
     url: https://github.com/parkjoohwan/
   - title: facebook
-    url: 
-  - title: gmail
-    url: jookid94@gmail.com
+    url: https://www.facebook.com/profile.php?id=100003540936306/
