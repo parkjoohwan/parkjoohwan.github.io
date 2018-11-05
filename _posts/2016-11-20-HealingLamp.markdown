@@ -12,7 +12,7 @@ description: |
 - Explanation<br>
 `Arduino를 이용한 마이크로프로세서 프로젝트입니다.`
 {% highlight ruby %}
-Bluetooth 통신으로 아두이노와 앱간에 통신이 이루어집니다.
+Bluetooth 통신으로 아두이노와 앱간의 통신이 이루어집니다.
 
 무드램프를 ON/OFF 할 수 있고, 노래를 틀거나 끄고, 다음 노래, 이전 노래 선택이 가능합니다.
 
