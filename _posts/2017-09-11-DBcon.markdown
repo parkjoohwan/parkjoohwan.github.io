@@ -1,0 +1,23 @@
+---
+layout: default
+img: DBandNetbean.png
+category: Note
+title: DBconnect and Java UI Project
+description: |
+---
+- Project Name<br>
+`DBconnect and Java UI`
+- Configuration<br>
+`MSSQLSever`, `Netbeans`, `JAVA`
+- Explanation<br>
+`간단한 DataBase를 설계하고 해당 DB를 간단한 JAVA UI를 만들어 CRUD를 구현한 프로젝트입니다.`
+{% highlight ruby %}
+MSSQLServer에 음식 레시피 데이터베이스를 임의로 구현하고, 해당 데이터베이스를 조회, 수정, 삭제 할 수 있는 프로시저를 구현합니다.
+
+Netbeans를 이용해서 간단한 UI를 만들고 데이터베이스에 연결, 조회, 수정, 삭제 할 수 있는 이벤트 등을 구현한 프로젝트입니다.
+{% endhighlight %}
+
+- Source<br>
+이곳에서 보실 수 있습니다. -> [See project source][source]
+
+[source]:https://github.com/parkjoohwan/PCodes/tree/master/DBconnect%20and%20Java%20UI

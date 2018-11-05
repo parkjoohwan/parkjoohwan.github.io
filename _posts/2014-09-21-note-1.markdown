@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: 
 category: Note
-title: Death to the Stock Photo:<br>Special Thanks
+title: First Post
 description: |
 ---
  testsetstse

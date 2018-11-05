@@ -1,0 +1,24 @@
+---
+layout: default
+img: Graphic.png
+category: Note
+title: ComputerGraphic Project with openGL
+description: |
+---
+- Project Name<br>
+`Robot Drawing use openGL`
+- Configuration<br>
+`openGL`, `C++`, `Visual Studio2010`, `3DS MAX`
+- Explanation<br>
+`openGL을 이용한 로봇 렌더링 및 키 입력에 따른 로봇 애니메이션 실행 프로젝트입니다.`
+{% highlight ruby %}
+로봇의 팔, 다리, 몸통, 머리 부분을 3DS MAX 프로그램을 이용해 렌더링 한 뒤, ASC 파일로 import하고 각 위치에 맞게 렌더링 합니다.
+화면을 4개의 View로 나누어 위에서 보았을때, 정면에서 보았을때, 측면에서 보았을 때를 카메라 위치를 설정해서 보여주고
+키 입력(E,W,S,Z,X,R,Q,P,V,[,])에 따라서 해당 기능을 수행합니다.
+달리기, 빠르게 달리기, 느리게 달리기, 줌 인, 줌 아웃, 종료, 리로드, 종료, 주먹 날리기, 회전하는 뷰 등의 기능을 실행할 수 있습니다.
+{% endhighlight %}
+
+- Source<br>
+이곳에서 보실 수 있습니다. -> [See project source][source]
+
+[source]:https://github.com/parkjoohwan/PCodes/tree/master/CumputerGraphics

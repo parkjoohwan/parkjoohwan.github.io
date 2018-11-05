@@ -1,0 +1,23 @@
+---
+layout: default
+img: CUSS.png
+category: Note
+title: CUSS Management using Spring Project
+description: |
+---
+- Project Name<br>
+`CUSS Managemet using SPRING`
+- Configuration<br>
+`SPRING`, `JSP`, `MySQL`, `Apache Tomcat`, `Eclipes JEE`
+- Explanation<br>
+`CUSS Management 프로젝트입니다.`
+{% highlight ruby %}
+인턴을 할 때 특정 부분만 경험 해 볼 수 있었던 프로젝트입니다.
+
+제한 노선 뷰, 편 명 별 통계 페이지를 제작했었습니다.
+
+소스는 공개하지 않습니다.
+{% endhighlight %}
+
+- Source<br>
+`공개 하지 않습니다.`
