@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Note
-title: Google Web Fonts and<br>Font Awesome Icons
-description: |
----
-testsetset
