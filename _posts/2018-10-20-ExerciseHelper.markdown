@@ -22,6 +22,6 @@ OPENPOSE를 이용해서 사람의 골격 정보를 추출하고, 추출한 정�
 {% endhighlight %}
 
 - Source<br>
-이곳에서 보실 수 있습니다. < [See Project Source][source] >
+이곳에서 보실 수 있습니다. < [View Project Source][source] >
 
 [source]:https://github.com/parkjoohwan/PCodes/tree/master/Excercise%20Helper%20App

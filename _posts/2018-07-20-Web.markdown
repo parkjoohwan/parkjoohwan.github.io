@@ -21,6 +21,6 @@ Javascript로 slider, 별점 매기기 등을 구현했고, DB에는 게시판 �
 
 
 - Source<br>
-이곳에서 보실 수 있습니다. < [See Project Source][source] >
+이곳에서 보실 수 있습니다. < [View Project Source][source] >
 
 [source]:https://github.com/parkjoohwan/PCodes/tree/master/Web%20project

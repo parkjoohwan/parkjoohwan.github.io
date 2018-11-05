@@ -19,6 +19,6 @@ Bluetooth 통신으로 아두이노와 앱간의 통신이 이루어집니다.
 마이크로 프로세서 수업 때 진행한 아두이노를 이용한 프로젝트입니다.
 {% endhighlight %}
 - Source<br>
-이곳에서 보실 수 있습니다. < [See Project Source][source] >
+이곳에서 보실 수 있습니다. < [View Project Source][source] >
 
 [source]:https://github.com/parkjoohwan/PCodes/tree/master/HealingMoodLamp
