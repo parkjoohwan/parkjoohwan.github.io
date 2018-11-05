@@ -18,6 +18,6 @@ Netbeans를 이용해서 간단한 UI를 만들고 데이터베이스에 연결,
 {% endhighlight %}
 
 - Source<br>
-이곳에서 보실 수 있습니다. -> [See project source][source]
+이곳에서 보실 수 있습니다. < [See Project Source][source] >
 
 [source]:https://github.com/parkjoohwan/PCodes/tree/master/DBconnect%20and%20Java%20UI
