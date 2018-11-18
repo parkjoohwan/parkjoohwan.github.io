@@ -2,7 +2,7 @@
 layout: default
 img: HairWeb.png
 category: Note
-title: Web prject
+title: Web project
 description: |
 ---
 - Project Name<br>
